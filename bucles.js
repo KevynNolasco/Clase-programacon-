@@ -5,7 +5,7 @@ for(let i = 0;i < 10;i++){
      console.log(` ${number}x ${m} = ${result}` ) ;
 
     const number = i+1;
-    console.log(`tabla del ${number}`);
+    console.log(`tabla de ${number}`);
 
     for(let i = 0;i < 10;i++){
         const m = i+1;
