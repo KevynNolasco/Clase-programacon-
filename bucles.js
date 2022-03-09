@@ -1,11 +1,11 @@
 for(let i = 0;i < 10;i++){
          const m = i+1;
-        const result = number * m;
+         const result = number * m;
    
      console.log(` ${number}x ${m} = ${result}` ) ;
 
     const number = i+1;
-    console.log(`tabla de ${number}`);
+        console.log(`tabla del ${number}`);
 
     for(let i = 0;i < 10;i++){
         const m = i+1;
@@ -14,3 +14,4 @@ for(let i = 0;i < 10;i++){
         console.log(`${number}x ${m} = ${result}` ) ;
     } 
 }
+   // module.exports(m)
